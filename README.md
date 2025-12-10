@@ -39,4 +39,4 @@ seriesids("UNRATE", "MVMTD027MNFRBDAL","REITTMA","GDPC1","NASDAQCOM","NASDAQNQEM
 5. Run `ExtraGraphsRE.R` To create the result focused graphs and extra confusion matrices.
 
 ## References
-ChatGPT: Helped debug the ranger coding.
+ChatGPT: Helped debug the code, specifically anything involving ranger in the RandomForestRE.R.
